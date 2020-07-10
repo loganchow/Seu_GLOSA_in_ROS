@@ -1,0 +1,1 @@
+# GLOSA applied to ROS
